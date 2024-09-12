@@ -1,0 +1,12 @@
+body {
+    background-color: #202124;
+}
+.navbar-nav .nav-link {
+    font-weight: bold;
+}
+.bg-secondary {
+    background-color: #0070d1 !important;
+}
+footer {
+    font-size: 0.9rem;
+}
